@@ -1,1 +1,3 @@
+# Sudoku Project dependencies
+# No external libraries required; only Python standard libraries are used
 
